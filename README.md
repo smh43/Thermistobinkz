@@ -14,6 +14,7 @@ You need to make this scheme to make the program work:
 
 Rt is your thermistor, R0 your fixed resistance, ADC is the analogic value mesured on your analogic pin
 You need to plug your analogic pin between Rt and R0. The voltage needs to be provide by Vcc.
+Realy easy
 
 Here is the array needed to choose the Beta value:
 
