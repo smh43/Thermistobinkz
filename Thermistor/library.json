@@ -1,0 +1,19 @@
+{
+  "name": "Thermistor",
+  "version": "1.0.0",
+  "description": "A small library for thermistor, with the calculation of F, C and K units",
+  "keywords": "Arduino Uno, Thermistor, Temperature",
+  "repository":
+  {
+    "type": "git"
+  },
+  "authors":
+  [
+    {
+      "name": "Smah Binkz"
+    }
+  ],
+  "license": "Robert's License",
+  "frameworks": "*",
+  "platforms": "*"
+}
