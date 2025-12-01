@@ -15,7 +15,7 @@ Rt is your thermistor, R0 your fixed resistance, ADC is the analogic value mesur
 You need to plug your analogic pin between Rt and R0. The voltage needs to be provide by Vcc.
 
 Here is the array needed to choose the Beta value:
-![Array]([https://imagesend.fr/uploads/20251201/81f03fc60bc0df23effdc506fe97d91e9d053585.png](https://imagesend.fr/uploads/20251201/f19d508b2db7cf09b42cb788019b38075f30306c.png))
+![Array](https://imagesend.fr/uploads/20251201/81f03fc60bc0df23effdc506fe97d91e9d053585.png](https://imagesend.fr/uploads/20251201/f19d508b2db7cf09b42cb788019b38075f30306c.png)
 
 And for exemple, here is a small program to show you how you can test the library easily:
 
