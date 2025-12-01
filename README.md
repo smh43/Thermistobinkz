@@ -6,7 +6,7 @@
 Little Arduino/ESP32 lib to mesure temperature with thermistor.
 Thermistor is a Class with one method to get the temperature from an analogic mesure. You can choose an unit of temperature between Farhenheit, Celsius and Kelvin.
 
-The class need at least ** 3 ** parameters : Your thermistor resistance value, your fixed resistance and the const Beta value.
+The class need at least **3 parameters** : Your thermistor resistance value, your fixed resistance and the const Beta value.
 
 You need to make this scheme to make the program work: 
 ![Schema](https://imagesend.fr/uploads/20251201/81f03fc60bc0df23effdc506fe97d91e9d053585.png)
